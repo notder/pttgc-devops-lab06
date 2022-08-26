@@ -52,4 +52,5 @@ This module will provide hands on experience to attendee to create the DevOps wo
 - Once the release was create, check GitHub Action for the progress
 
 ## Discussion
+release
 ...
