@@ -54,6 +54,6 @@ This module will provide hands on experience to attendee to create the DevOps wo
 ## Discussion
 
 oof
-release
+release 1.0.0
 
 ...
